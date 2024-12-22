@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mubshir381
-- 👀 I’m interested in AI 
+- 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Chatbots
+- 💞️ I’m looking to collaborate on Data Analytics 
 - 📫 How to reach me (asifmubshir381@gmail.com)
 
 <!---
